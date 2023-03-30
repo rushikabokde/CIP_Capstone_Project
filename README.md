@@ -1,5 +1,7 @@
 # CIP_Capstone_Project
 
+Kaggle: https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclaimprediction-classification?resource=download
+
 **Car Insurance Claim Prediction model capstone project**
 
 Predict whether the policyholder will file a claim in the next 6 months or not.
